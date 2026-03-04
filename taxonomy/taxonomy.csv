@@ -1,0 +1,40 @@
+Hierarchy,Subcategory,Category
+Ego Car Driving Intention,Vehicle Lateral Activity,Accelerating
+Ego Car Driving Intention,Vehicle Lateral Activity,Changing lane
+Ego Car Driving Intention,Vehicle Lateral Activity,Decelerating
+Ego Car Driving Intention,Vehicle Lateral Activity,Enter another road
+Ego Car Driving Intention,Vehicle Lateral Activity,Turning
+Ego Car Driving Intention,Vehicle Longitudinal Activity,Driving forward
+Ego Car Driving Intention,Vehicle Longitudinal Activity,Merging
+Ego Car Driving Intention,Vehicle Longitudinal Activity,Park
+Ego Car Driving Intention,Vehicle Longitudinal Activity,Passing
+Ego Car Driving Intention,Vehicle Longitudinal Activity,Stop
+Environment,Weather,Rain
+Environment,Weather,Snow
+Environment,Lighting Conditions,Nighttime
+Interaction with Other Road Users,Lead Vehicle,Accelerating
+Interaction with Other Road Users,Lead Vehicle,Changing lane
+Interaction with Other Road Users,Lead Vehicle,Cut in
+Interaction with Other Road Users,Lead Vehicle,Decelerating
+Interaction with Other Road Users,Lead Vehicle,Moving forward:Fast
+Interaction with Other Road Users,Lead Vehicle,Moving forward:Normally
+Interaction with Other Road Users,Lead Vehicle,Moving forward:Slowly
+Interaction with Other Road Users,Lead Vehicle,Park
+Interaction with Other Road Users,Lead Vehicle,Stop
+Interaction with Other Road Users,Pedestrians and Cyclists,Crossing
+Interaction with Other Road Users,Pedestrians and Cyclists,Pedestrian Crossing
+Interaction with Other Road Users,Traffic,Accelerating
+Interaction with Other Road Users,Traffic,Decelerating
+Interaction with Other Road Users,Traffic,Heavy
+Interaction with Other Road Users,Traffic,Light
+Interaction with Other Road Users,Traffic,Moving forward:Fast
+Interaction with Other Road Users,Traffic,Moving forward:Normally
+Interaction with Other Road Users,Traffic,Moving forward:Slowly
+Interaction with Other Road Users,Traffic,Stop
+Road Condition,Availability,Clear Road
+Road Condition,Availability,Exit
+Road Condition,Speed Regulations,Speed bump
+Traffic Conditions,Traffic Light,Green light
+Traffic Conditions,Traffic Light,Red light
+Traffic Conditions,Traffic Sign,Stop sign
+Unclassified,,Unclassified

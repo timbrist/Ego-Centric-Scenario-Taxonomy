@@ -1,0 +1,77 @@
+{
+  "Ego Car Driving Intention": {
+    "Vehicle Lateral Activity": [
+      "Accelerating",
+      "Changing lane",
+      "Decelerating",
+      "Enter another road",
+      "Turning"
+    ],
+    "Vehicle Longitudinal Activity": [
+      "Driving forward",
+      "Merging",
+      "Park",
+      "Passing",
+      "Stop"
+    ]
+  },
+  "Environment": {
+    "Weather": [
+      "Rain",
+      "Snow"
+    ],
+    "Lighting Conditions": [
+      "Nighttime"
+    ]
+  },
+  "Interaction with Other Road Users": {
+    "Lead Vehicle": [
+      "Accelerating",
+      "Changing lane",
+      "Cut in",
+      "Decelerating",
+      "Moving forward:Fast",
+      "Moving forward:Normally",
+      "Moving forward:Slowly",
+      "Park",
+      "Stop"
+    ],
+    "Pedestrians and Cyclists": [
+      "Crossing",
+      "Pedestrian Crossing"
+    ],
+    "Traffic": [
+      "Accelerating",
+      "Decelerating",
+      "Heavy",
+      "Light",
+      "Moving forward:Fast",
+      "Moving forward:Normally",
+      "Moving forward:Slowly",
+      "Stop"
+    ]
+  },
+  "Road Condition": {
+    "Availability": [
+      "Clear Road",
+      "Exit"
+    ],
+    "Speed Regulations": [
+      "Speed bump"
+    ]
+  },
+  "Traffic Conditions": {
+    "Traffic Light": [
+      "Green light",
+      "Red light"
+    ],
+    "Traffic Sign": [
+      "Stop sign"
+    ]
+  },
+  "Unclassified": {
+    "Unclassified": [
+      "Unclassified"
+    ]
+  }
+}
