@@ -16,6 +16,7 @@ The following resources are available:
 
 The folder `taxonomy` contains `csv` and `json` files with the proposed ego-centered taxonomy.
 
+
 ## Annotations
 
 The folder `annotations` contains the annotations with the low-level categories of the proposed ego-centric taxonomy of the [BDD-X test set](https://raw.githubusercontent.com/YuanJianhao508/RAG-Driver/refs/heads/main/evalcap/BDDX_gt/conversation_bddx_eval.json), as split by RAG-Driver.
@@ -30,6 +31,8 @@ The file `bddx_test_with_justification_category.csv` contains the BDD-X test set
 ### Evaluation Code
 
 ### Classification of Driving Categories
+
+The directory `code/text-classification` contains code for classification of driving situations using BERT of some of the low-level categories, based on the ground-truth annotations of the BDD-X test set.
 
 
 ## Citation
