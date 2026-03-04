@@ -26,9 +26,14 @@ The file `bddx_test_with_justification_category.csv` contains the BDD-X test set
 
 ## Code
 
-### Training Code
+### Training
 
-### Evaluation Code
+*TODO*
+
+### Evaluation
+
+The directory `code/evaluation` contains Jupyter notebooks with code used for the evaluations shown in the paper.
+
 
 ### Classification of Driving Categories
 
